@@ -12,7 +12,9 @@ The system incorporates a solar tracking mechanism that adjusts the orientation 
     * VS code Extension for Espressif IDF
 
 ### Interfacing the OLED Display
+![oled_display](https://github.com/bjd20/IoT-based-Solar-Tracking-Monitoring-System/assets/106448613/60c89d77-127c-4ffb-bb40-ca4ed47f0149)
 
+![display_code](https://github.com/bjd20/IoT-based-Solar-Tracking-Monitoring-System/assets/106448613/85a000b8-fc37-43d0-8d0b-9774596a8e6a)
 
 ### Configure the project
 
