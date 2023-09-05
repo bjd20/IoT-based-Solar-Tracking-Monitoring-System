@@ -23,7 +23,6 @@ char lineChar[20];
 
 void display_init(){
     
-
 #if CONFIG_I2C_INTERFACE
 	ESP_LOGI(tag, "INTERFACE is i2c");
 	ESP_LOGI(tag, "CONFIG_SDA_GPIO=%d",CONFIG_SDA_GPIO);
@@ -37,18 +36,14 @@ void display_init(){
 	ESP_LOGW(tag, "Flip upside down");
 #endif
 
-#if CONFIG_SSD1306_128x64
-	ESP_LOGI(tag, "Panel is 128x64");
-	ssd1306_init(&dev, 128, 64);
-#endif // CONFIG_SSD1306_128x64
-
-#if CONFIG_SSD1306_128x32
-	ESP_LOGI(tag, "Panel is 128x32");
-	ssd1306_init(&dev, 128, 32);
-#endif // CONFIG_SSD1306_128x32
 }
 
 void display_test(){
+	#if CONFIG_SSD1306_128x32
+	ESP_LOGI(tag, "Panel is 128x32");
+	ssd1306_init(&dev, 128, 32);
+	#endif // CONFIG_SSD1306_128x32
+
     ssd1306_clear_screen(&dev, false);
 	ssd1306_contrast(&dev, 0xff);
     ssd1306_display_text_x3(&dev, 0, "Hello", 5, false);
@@ -66,5 +61,4 @@ void display_show(){
 	ssd1306_display_text(&dev, 3, "Monitoring System", 17, false);
 
 	vTaskDelay(3000 / portTICK_PERIOD_MS);
-
 }
