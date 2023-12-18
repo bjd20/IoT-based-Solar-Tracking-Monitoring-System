@@ -1,0 +1,16 @@
+Compiler supported targets: xtensa-esp32-elf
+
+ESP Insights Project commit: dc5b74d-dirty
+ESP RainMaker Project commit: dc5b74d-dirty
+CMake Warning (dev) at C:/Espressif/frameworks/esp-idf-v5.1.1/tools/cmake/component.cmake:479 (add_library):
+  Policy CMP0115 is not set: Source file extensions must be explicit.  Run
+  "cmake --help-policy CMP0115" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+
+  File:
+
+    E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp
+Call Stack (most recent call first):
+  components/arduino/CMakeLists.txt:225 (idf_component_register)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

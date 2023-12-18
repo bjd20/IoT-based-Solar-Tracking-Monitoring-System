@@ -18,7 +18,7 @@ set(HEAD_HASH)
 file(READ "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/bootloader/CMakeFiles/git-data/HEAD" HEAD_CONTENTS LIMIT 1024)
 
 string(STRIP "${HEAD_CONTENTS}" HEAD_CONTENTS)
-set(GIT_DIR "C:/Espressif/frameworks/esp-idf-v5.0.2/.git")
+set(GIT_DIR "C:/Espressif/frameworks/esp-idf-v5.1.1/.git")
 # handle git-worktree
 if(EXISTS "${GIT_DIR}/commondir")
 	file(READ "${GIT_DIR}/commondir" GIT_DIR_NEW LIMIT 1024)

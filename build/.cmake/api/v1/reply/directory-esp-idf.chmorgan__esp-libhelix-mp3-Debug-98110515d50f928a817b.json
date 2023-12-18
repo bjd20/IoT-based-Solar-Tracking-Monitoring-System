@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/chmorgan__esp-libhelix-mp3",
+		"source" : "managed_components/chmorgan__esp-libhelix-mp3"
+	}
+}

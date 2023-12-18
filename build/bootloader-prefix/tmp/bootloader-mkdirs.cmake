@@ -4,7 +4,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/Espressif/frameworks/esp-idf-v5.0.2/components/bootloader/subproject"
+  "C:/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader/subproject"
   "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/bootloader"
   "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/bootloader-prefix"
   "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/bootloader-prefix/tmp"

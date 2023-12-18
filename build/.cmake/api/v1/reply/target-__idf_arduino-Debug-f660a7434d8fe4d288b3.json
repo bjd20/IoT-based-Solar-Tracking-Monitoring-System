@@ -1,0 +1,3608 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "esp-idf/arduino/libarduino.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"idf_component_register",
+			"set_property",
+			"__component_set_dependencies",
+			"__component_set_all_dependencies",
+			"add_compile_options",
+			"add_c_compile_options",
+			"target_compile_options",
+			"add_compile_definitions",
+			"include_directories",
+			"target_include_directories",
+			"__component_add_include_dirs",
+			"target_link_libraries",
+			"maybe_add_component",
+			"add_cxx_compile_options"
+		],
+		"files" : 
+		[
+			"C:/Espressif/frameworks/esp-idf-v5.1.1/tools/cmake/component.cmake",
+			"components/arduino/CMakeLists.txt",
+			"C:/Espressif/frameworks/esp-idf-v5.1.1/tools/cmake/utilities.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 225,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 479,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 513,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 354,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 357,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 464,
+				"parent" : 1
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 466,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 281,
+				"parent" : 17
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 235,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 465,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 463,
+				"parent" : 1
+			},
+			{
+				"command" : 11,
+				"file" : 0,
+				"line" : 481,
+				"parent" : 1
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 23
+			},
+			{
+				"command" : 11,
+				"file" : 0,
+				"line" : 482,
+				"parent" : 1
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 61
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 339,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 336,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 1,
+				"line" : 268,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 260,
+				"parent" : 74
+			},
+			{
+				"command" : 14,
+				"file" : 0,
+				"line" : 467,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 270,
+				"parent" : 76
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mlongcalls -Wno-frame-address  -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Werror=all"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=unused-function"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=unused-variable"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=unused-but-set-variable"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-sign-compare"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-enum-conversion"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-gdwarf-4"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-ggdb"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fmacro-prefix-map=E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System=."
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fmacro-prefix-map=C:/Espressif/frameworks/esp-idf-v5.1.1=/IDF"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fstrict-volatile-bitfields"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fno-jump-tables"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fno-tree-switch-conversion"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-DconfigENABLE_FREERTOS_DEBUG_OCDAWARE=1"
+				},
+				{
+					"backtrace" : 77,
+					"fragment" : "-std=gnu++2b"
+				},
+				{
+					"backtrace" : 77,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 77,
+					"fragment" : "-fno-rtti"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO=10812"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_ESP32_DEV"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_ARCH_ESP32"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_BOARD=\\\"ESP32_DEV\\\""
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_VARIANT=\\\"esp32\\\""
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DESP32"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 20,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "IDF_VER=\"v5.1.1-dirty\""
+				},
+				{
+					"backtrace" : 21,
+					"define" : "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "SOC_MMU_PAGE_SIZE=CONFIG_MMU_PAGE_SIZE"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "_POSIX_READER_WRITER_LOCKS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 22,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/config"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/variants/esp32"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/cores/esp32"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Adafruit_NeoPixel"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SCServo"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ArduinoOTA/src"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/AsyncUDP/src"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/BLE/src"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/BluetoothSerial/src"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/DNSServer/src"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/EEPROM/src"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESP_I2S/src"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESP_SR/src"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESP32/src"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESPmDNS/src"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Ethernet/src"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/FFat/src"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/FS/src"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/HTTPClient/src"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/HTTPUpdate/src"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/LittleFS/src"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Insights/src"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/NetBIOS/src"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Preferences/src"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/RainMaker/src"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SD_MMC/src"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SD/src"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SimpleBLE/src"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SPIFFS/src"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SPI/src"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Ticker/src"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Update/src"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/USB/src"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WebServer/src"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WiFiClientSecure/src"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WiFi/src"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WiFiProv/src"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Wire/src"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/cores/esp32/libb64"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/newlib/platform_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include/freertos"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/arch/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/private_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/heap/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/log/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_common/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/include/private"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps/sntp"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/lwip/src/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/freertos/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include/arch"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/spi_flash/include"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_partition/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/port/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/mbedtls/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/mbedtls/library"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/esp_crt_bundle/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wifi_provisioning/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm/include/common"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm/include/security"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm/include/transports"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_timer/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_wifi/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_wifi/wifi_apps/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_event/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_phy/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_phy/esp32/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_netif/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wpa_supplicant/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wpa_supplicant/port/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wpa_supplicant/esp_supplicant/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/interface"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/esp32/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/deprecated/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_eth/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/deprecated"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/analog_comparator/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/dac/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/gpio/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/gptimer/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/i2c/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/i2s/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/ledc/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/mcpwm/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/parlio/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/pcnt/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/rmt/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/sdio_slave/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/sdmmc/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/sigma_delta/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/spi/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/temperature_sensor/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/touch_sensor/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/twai/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/uart/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/usb_serial_jtag/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/touch_sensor/esp32/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_pm/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_ringbuf/include"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/http_parser"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/chmorgan__esp-libhelix-mp3/libhelix-mp3/pub"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/fatfs/diskio"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/fatfs/vfs"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/fatfs/src"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wear_levelling/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/sdmmc/include"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/nvs_flash/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/app_update/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader_support/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader_support/bootloader_flash/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_app_format/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/spiffs/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hid/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/mem/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/hann/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_harris/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_nuttall/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/nuttall/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/flat_top/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/iir/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fir/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/add/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sub/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mul/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/addc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mulc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sqrt/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/add/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/addc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mulc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/sub/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fft/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dct/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/conv/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/common/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/test/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf_imu13states/include"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-zboss-lib/include"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-zigbee-lib/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp_insights/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp_diagnostics/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp_rainmaker/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__rmaker_common/include"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__mdns/include"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/console"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/vfs/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__qrcode/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/joltwallet__littlefs/include"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_https_ota/include"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_http_client/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				24,
+				25,
+				26,
+				27,
+				28,
+				31,
+				32,
+				33,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mlongcalls -Wno-frame-address  -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Werror=all"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=unused-function"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=unused-variable"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=unused-but-set-variable"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-sign-compare"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Wno-enum-conversion"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-gdwarf-4"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-ggdb"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fmacro-prefix-map=E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System=."
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fmacro-prefix-map=C:/Espressif/frameworks/esp-idf-v5.1.1=/IDF"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fstrict-volatile-bitfields"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fno-jump-tables"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-fno-tree-switch-conversion"
+				},
+				{
+					"backtrace" : 16,
+					"fragment" : "-DconfigENABLE_FREERTOS_DEBUG_OCDAWARE=1"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "-std=gnu17"
+				},
+				{
+					"backtrace" : 18,
+					"fragment" : "-Wno-old-style-declaration"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO=10812"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_ESP32_DEV"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_ARCH_ESP32"
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_BOARD=\\\"ESP32_DEV\\\""
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DARDUINO_VARIANT=\\\"esp32\\\""
+				},
+				{
+					"backtrace" : 19,
+					"fragment" : "-DESP32"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 20,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "IDF_VER=\"v5.1.1-dirty\""
+				},
+				{
+					"backtrace" : 21,
+					"define" : "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "SOC_MMU_PAGE_SIZE=CONFIG_MMU_PAGE_SIZE"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "_POSIX_READER_WRITER_LOCKS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 22,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/config"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/variants/esp32"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/cores/esp32"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Adafruit_NeoPixel"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SCServo"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ArduinoOTA/src"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/AsyncUDP/src"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/BLE/src"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/BluetoothSerial/src"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/DNSServer/src"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/EEPROM/src"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESP_I2S/src"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESP_SR/src"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESP32/src"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/ESPmDNS/src"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Ethernet/src"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/FFat/src"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/FS/src"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/HTTPClient/src"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/HTTPUpdate/src"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/LittleFS/src"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Insights/src"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/NetBIOS/src"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Preferences/src"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/RainMaker/src"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SD_MMC/src"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SD/src"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SimpleBLE/src"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SPIFFS/src"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/SPI/src"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Ticker/src"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Update/src"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/USB/src"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WebServer/src"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WiFiClientSecure/src"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WiFi/src"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/WiFiProv/src"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/libraries/Wire/src"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/components/arduino/cores/esp32/libb64"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/newlib/platform_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include/freertos"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/arch/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/private_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/heap/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/log/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_common/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/include/private"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps/sntp"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/lwip/src/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/freertos/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include/arch"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/spi_flash/include"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_partition/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/port/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/mbedtls/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/mbedtls/library"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/mbedtls/esp_crt_bundle/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wifi_provisioning/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm/include/common"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm/include/security"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/protocomm/include/transports"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_timer/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_wifi/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_wifi/wifi_apps/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_event/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_phy/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_phy/esp32/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_netif/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wpa_supplicant/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wpa_supplicant/port/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wpa_supplicant/esp_supplicant/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/interface"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/esp32/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_adc/deprecated/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_eth/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/deprecated"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/analog_comparator/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/dac/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/gpio/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/gptimer/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/i2c/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/i2s/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/ledc/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/mcpwm/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/parlio/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/pcnt/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/rmt/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/sdio_slave/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/sdmmc/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/sigma_delta/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/spi/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/temperature_sensor/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/touch_sensor/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/twai/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/uart/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/usb_serial_jtag/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/driver/touch_sensor/esp32/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_pm/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_ringbuf/include"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/http_parser"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/chmorgan__esp-libhelix-mp3/libhelix-mp3/pub"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/fatfs/diskio"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/fatfs/vfs"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/fatfs/src"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/wear_levelling/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/sdmmc/include"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/nvs_flash/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/app_update/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader_support/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/bootloader_support/bootloader_flash/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_app_format/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/spiffs/include"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hid/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/mem/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/hann/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_harris/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_nuttall/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/nuttall/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/flat_top/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/iir/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fir/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/add/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sub/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mul/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/addc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mulc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sqrt/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/add/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/addc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mulc/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/sub/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fft/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dct/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/conv/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/common/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/test/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf_imu13states/include"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-zboss-lib/include"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-zigbee-lib/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp_insights/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp_diagnostics/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp_rainmaker/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__rmaker_common/include"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__mdns/include"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/console"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/vfs/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__qrcode/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/joltwallet__littlefs/include"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_https_ota/include"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_http_client/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				29,
+				30,
+				34,
+				43,
+				44,
+				45,
+				63,
+				86
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "__idf_xtensa::@1daaaad7abe597e030f9"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "__idf_console::@4311ed8d271cc0ee1422"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "__idf_esp_hid::@15df40e16a5d8775dd9b"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "__idf_protocomm::@d76d01c8dec06205e1fc"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "__idf_protobuf-c::@b14513c4bd859268ec22"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "__idf_espcoredump::@718b9a7d55ab42cfc0a3"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "__idf_esp_local_ctrl::@d6aad58d2946e56208ef"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "__idf_mqtt::@c1ab2c6a99226d1f4b56"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "__idf_json::@c78a8bdc820334f01148"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "__idf_wifi_provisioning::@9d7e7ffe1b15746c1098"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "__idf_spiffs::@df881b71474064c86689"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "__idf_fatfs::@75ac1d9b25dacc8cc9e7"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "__idf_sdmmc::@89ed5bca1750ffbc7db6"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "__idf_wear_levelling::@cb21b0d7c0815cff11c6"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "__idf_espressif__esp-dsp::@173cdc30d8d2ec42511f"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "__idf_chmorgan__esp-libhelix-mp3::@2001e510bbb61b374403"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "__idf_espressif__rmaker_common::@c6b174d45560089ccfa0"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "__idf_espressif__esp_diag_data_store::@0812b0e2ee947b61146b"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "__idf_espressif__esp_insights::@68befea4f4c4b7b3584b"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "__idf_espressif__esp_diagnostics::@4d5ef9c3b0350e2a0d42"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "__idf_espressif__cbor::@b48c68098eeb87457809"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "__idf_espressif__mdns::@d92204a997f34ad8e688"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "__idf_espressif__json_generator::@c2fc9a05de0a69fdf4a9"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "__idf_espressif__json_parser::@78f6609d3363a7198fb3"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "__idf_espressif__esp_schedule::@03011afa94e84ebee675"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "__idf_espressif__esp_secure_cert_mgr::@2137c484516755352d0e"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "__idf_joltwallet__littlefs::@76002c3da0fd4d8a082e"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "__idf_espressif__esp_rainmaker::@3d1b956c754767bf2550"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "__idf_espressif__qrcode::@a73cb04e6af3b825f532"
+		}
+	],
+	"id" : "__idf_arduino::@f69cb93b3f530a28a4a4",
+	"name" : "__idf_arduino",
+	"nameOnDisk" : "libarduino.a",
+	"paths" : 
+	{
+		"build" : "esp-idf/arduino",
+		"source" : "components/arduino"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/base64.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/cbuf.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/chip-debug-report.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-adc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-bt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-cpu.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-dac.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-gpio.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-i2c.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-i2c-slave.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-ledc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-matrix.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-misc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-periman.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-psram.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-rgb-led.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-sigmadelta.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-spi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-time.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-timer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-tinyusb.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-touch.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-uart.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/esp32-hal-rmt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/Esp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/FunctionalInterrupt.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/HardwareSerial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/IPAddress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/IPv6Address.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/libb64/cdecode.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/libb64/cencode.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/MD5Builder.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/Print.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/stdlib_noniso.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/Stream.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/StreamString.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/Tone.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/HWCDC.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/USB.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/USBCDC.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/USBMSC.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/FirmwareMSC.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/firmware_msc_fat.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/wiring_pulse.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/cores/esp32/wiring_shift.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/WMath.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/cores/esp32/WString.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SCServo/SCS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SCServo/SCSCL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SCServo/SCSerial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SCServo/SMS_STS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/ArduinoOTA/src/ArduinoOTA.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/AsyncUDP/src/AsyncUDP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BluetoothSerial/src/BluetoothSerial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BluetoothSerial/src/BTAddress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BluetoothSerial/src/BTAdvertisedDeviceSet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BluetoothSerial/src/BTScanResultsSet.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/DNSServer/src/DNSServer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/EEPROM/src/EEPROM.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/ESP_I2S/src/ESP_I2S.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/ESP_SR/src/ESP_SR.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/libraries/ESP_SR/src/esp32-hal-sr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/ESPmDNS/src/ESPmDNS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Ethernet/src/ETH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/FFat/src/FFat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/FS/src/FS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/FS/src/vfs_api.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/HTTPClient/src/HTTPClient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/HTTPUpdate/src/HTTPUpdate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/LittleFS/src/LittleFS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Insights/src/Insights.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/NetBIOS/src/NetBIOS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Preferences/src/Preferences.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/RMaker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/RMakerNode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/RMakerParam.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/RMakerDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/RMakerType.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/RMakerQR.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/RMakerUtils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/RainMaker/src/AppInsights.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SD_MMC/src/SD_MMC.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SD/src/SD.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SD/src/sd_diskio.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "components/arduino/libraries/SD/src/sd_diskio_crc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SimpleBLE/src/SimpleBLE.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SPIFFS/src/SPIFFS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/SPI/src/SPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Ticker/src/Ticker.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Update/src/Updater.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Update/src/HttpsOTAUpdate.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBHID.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBHIDMouse.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBHIDKeyboard.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBHIDGamepad.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBHIDConsumerControl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBHIDSystemControl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBHIDVendor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/USB/src/USBVendor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WebServer/src/WebServer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WebServer/src/Parsing.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WebServer/src/detail/mimetable.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFiClientSecure/src/ssl_client.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFiClientSecure/src/WiFiClientSecure.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiAP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiClient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFi.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiGeneric.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiMulti.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiScan.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiServer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiSTA.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFi/src/WiFiUdp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/WiFiProv/src/WiFiProv.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/Wire/src/Wire.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLE2902.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLE2904.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEAddress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEAdvertisedDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEAdvertising.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEBeacon.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLECharacteristic.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLECharacteristicMap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEClient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEDescriptor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEDescriptorMap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEEddystoneTLM.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEEddystoneURL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEExceptions.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEHIDDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLERemoteCharacteristic.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLERemoteDescriptor.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLERemoteService.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEScan.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLESecurity.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEServer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEService.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEServiceMap.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEUtils.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEUUID.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/BLEValue.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/FreeRTOS.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "components/arduino/libraries/BLE/src/GeneralUtils.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

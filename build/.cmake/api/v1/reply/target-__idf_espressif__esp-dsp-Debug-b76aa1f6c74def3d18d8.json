@@ -1,0 +1,2582 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "esp-idf/espressif__esp-dsp/libespressif__esp-dsp.a"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"idf_component_register",
+			"add_compile_options",
+			"add_compile_definitions",
+			"include_directories",
+			"target_include_directories",
+			"__component_add_include_dirs",
+			"add_c_compile_options",
+			"add_cxx_compile_options"
+		],
+		"files" : 
+		[
+			"C:/Espressif/frameworks/esp-idf-v5.1.1/tools/cmake/component.cmake",
+			"managed_components/espressif__esp-dsp/CMakeLists.txt",
+			"C:/Espressif/frameworks/esp-idf-v5.1.1/tools/cmake/utilities.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 176,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 479,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 464,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 465,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 463,
+				"parent" : 1
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 481,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 6
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 482,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 39
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 39
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 466,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 281,
+				"parent" : 42
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 467,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 270,
+				"parent" : 44
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mlongcalls -Wno-frame-address  -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Werror=all"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-function"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-variable"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-but-set-variable"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-sign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-enum-conversion"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-gdwarf-4"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-ggdb"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fmacro-prefix-map=E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System=."
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fmacro-prefix-map=C:/Espressif/frameworks/esp-idf-v5.1.1=/IDF"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fstrict-volatile-bitfields"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fno-jump-tables"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fno-tree-switch-conversion"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DconfigENABLE_FREERTOS_DEBUG_OCDAWARE=1"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-std=gnu++2b"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-exceptions"
+				},
+				{
+					"backtrace" : 45,
+					"fragment" : "-fno-rtti"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "IDF_VER=\"v5.1.1-dirty\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "SOC_MMU_PAGE_SIZE=CONFIG_MMU_PAGE_SIZE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_POSIX_READER_WRITER_LOCKS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/config"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/mem/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/hann/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_harris/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_nuttall/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/nuttall/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/flat_top/include"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/iir/include"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fir/include"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/include"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/add/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sub/include"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mul/include"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/addc/include"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mulc/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sqrt/include"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/include"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/add/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/addc/include"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mulc/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/sub/include"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/include"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fft/include"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dct/include"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/conv/include"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/common/include"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/test/include"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf/include"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf_imu13states/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/float"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/fixed"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/newlib/platform_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include/freertos"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/arch/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/private_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/heap/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/log/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_common/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/include/private"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps/sntp"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/lwip/src/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/freertos/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include/arch"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				53,
+				83,
+				84,
+				93,
+				123,
+				124
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mlongcalls -Wno-frame-address  -g -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Werror=all"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-function"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-variable"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-but-set-variable"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-sign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-enum-conversion"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-gdwarf-4"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-ggdb"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fmacro-prefix-map=E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System=."
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fmacro-prefix-map=C:/Espressif/frameworks/esp-idf-v5.1.1=/IDF"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fstrict-volatile-bitfields"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fno-jump-tables"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fno-tree-switch-conversion"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DconfigENABLE_FREERTOS_DEBUG_OCDAWARE=1"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-std=gnu17"
+				},
+				{
+					"backtrace" : 43,
+					"fragment" : "-Wno-old-style-declaration"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "IDF_VER=\"v5.1.1-dirty\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "SOC_MMU_PAGE_SIZE=CONFIG_MMU_PAGE_SIZE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_POSIX_READER_WRITER_LOCKS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/config"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/mem/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/hann/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_harris/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_nuttall/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/nuttall/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/flat_top/include"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/iir/include"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fir/include"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/include"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/add/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sub/include"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mul/include"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/addc/include"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mulc/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sqrt/include"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/include"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/add/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/addc/include"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mulc/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/sub/include"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/include"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fft/include"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dct/include"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/conv/include"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/common/include"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/test/include"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf/include"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf_imu13states/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/float"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/fixed"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/newlib/platform_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include/freertos"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/arch/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/private_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/heap/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/log/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_common/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/include/private"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps/sntp"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/lwip/src/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/freertos/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include/arch"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				1,
+				6,
+				7,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				36,
+				37,
+				43,
+				45,
+				47,
+				49,
+				51,
+				54,
+				55,
+				56,
+				58,
+				59,
+				61,
+				62,
+				63,
+				69,
+				72,
+				73,
+				75,
+				76,
+				77,
+				78,
+				80,
+				82,
+				85,
+				86,
+				87,
+				88,
+				90,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				102,
+				104,
+				108,
+				109,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mlongcalls  -g"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-ffunction-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fdata-sections"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Werror=all"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-function"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-variable"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=unused-but-set-variable"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-error=deprecated-declarations"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wextra"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-unused-parameter"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-sign-compare"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-enum-conversion"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-gdwarf-4"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-ggdb"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Og"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fmacro-prefix-map=E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System=."
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fmacro-prefix-map=C:/Espressif/frameworks/esp-idf-v5.1.1=/IDF"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fstrict-volatile-bitfields"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fno-jump-tables"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fno-tree-switch-conversion"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-DconfigENABLE_FREERTOS_DEBUG_OCDAWARE=1"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "IDF_VER=\"v5.1.1-dirty\""
+				},
+				{
+					"backtrace" : 2,
+					"define" : "SOC_MMU_PAGE_SIZE=CONFIG_MMU_PAGE_SIZE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_POSIX_READER_WRITER_LOCKS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/build/config"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/support/mem/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/hann/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_harris/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/blackman_nuttall/include"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/nuttall/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/windows/flat_top/include"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/iir/include"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fir/include"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/include"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/add/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sub/include"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mul/include"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/addc/include"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/mulc/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/math/sqrt/include"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/include"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/add/include"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/addc/include"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mulc/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/sub/include"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/include"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/fft/include"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dct/include"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/conv/include"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/common/include"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/matrix/mul/test/include"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf/include"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/kalman/ekf_imu13states/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/float"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "E:/EmbeddedSystem/esp-idf_vsCode_projects/IoT-based-Solar-Tracking-Monitoring-System/managed_components/espressif__esp-dsp/modules/dotprod/fixed"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/newlib/platform_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/FreeRTOS-Kernel/portable/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include/freertos"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/freertos/esp_additions/arch/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/include/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/."
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_hw_support/port/esp32/private_include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/heap/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/log/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/soc/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/include/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_rom/esp32"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_common/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/soc"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/esp_system/port/include/private"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/xtensa/esp32/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/include/apps/sntp"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/lwip/src/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/freertos/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Espressif/frameworks/esp-idf-v5.1.1/components/lwip/port/esp32xx/include/arch"
+				}
+			],
+			"language" : "ASM",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				5,
+				8,
+				9,
+				10,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				38,
+				39,
+				40,
+				41,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				57,
+				60,
+				64,
+				65,
+				66,
+				67,
+				68,
+				70,
+				71,
+				74,
+				79,
+				81,
+				89,
+				91,
+				92,
+				101,
+				103,
+				105,
+				106,
+				107,
+				110,
+				111,
+				112,
+				113,
+				120,
+				121,
+				122
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "__idf_xtensa::@1daaaad7abe597e030f9"
+		}
+	],
+	"id" : "__idf_espressif__esp-dsp::@173cdc30d8d2ec42511f",
+	"name" : "__idf_espressif__esp-dsp",
+	"nameOnDisk" : "libespressif__esp-dsp.a",
+	"paths" : 
+	{
+		"build" : "esp-idf/espressif__esp-dsp",
+		"source" : "managed_components/espressif__esp-dsp"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				6,
+				7,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				36,
+				37,
+				43,
+				45,
+				47,
+				49,
+				51,
+				53,
+				54,
+				55,
+				56,
+				58,
+				59,
+				61,
+				62,
+				63,
+				69,
+				72,
+				73,
+				75,
+				76,
+				77,
+				78,
+				80,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				90,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				102,
+				104,
+				108,
+				109,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				123,
+				124
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				4,
+				5,
+				8,
+				9,
+				10,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				38,
+				39,
+				40,
+				41,
+				42,
+				44,
+				46,
+				48,
+				50,
+				52,
+				57,
+				60,
+				64,
+				65,
+				66,
+				67,
+				68,
+				70,
+				71,
+				74,
+				79,
+				81,
+				89,
+				91,
+				92,
+				101,
+				103,
+				105,
+				106,
+				107,
+				110,
+				111,
+				112,
+				113,
+				120,
+				121,
+				122
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "managed_components/espressif__esp-dsp/modules/common/misc/dsps_pwroftwo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/common/misc/aes3_tie_log.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dsps_dotprod_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dsps_dotprod_f32_m_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dsps_dotprode_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dsps_dotprode_f32_m_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dsps_dotprod_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dsps_dotprode_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dsps_dotprod_f32_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dsps_dotprod_s16_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dsps_dotprod_s16_m_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dsps_dotprod_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dspi_dotprod_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/float/dspi_dotprod_off_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_u16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_s8_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_u8_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_u16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_s8_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_u8_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_s16_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_u16_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_s16_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_u16_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_s8_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_u8_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_u8_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/dotprod/fixed/dspi_dotprod_off_s8_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_3x3x1_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_3x3x3_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_4x4x1_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_4x4x4_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_f32_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_ex_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_ex_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/float/dspm_mult_ex_f32_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/fixed/dspm_mult_s16_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/fixed/dspm_mult_s16_m_ae32_vector.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/fixed/dspm_mult_s16_m_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/fixed/dspm_mult_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mul/fixed/dspm_mult_s16_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/add/float/dspm_add_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/add/float/dspm_add_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/addc/float/dspm_addc_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/addc/float/dspm_addc_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mulc/float/dspm_mulc_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mulc/float/dspm_mulc_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/sub/float/dspm_sub_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/sub/float/dspm_sub_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "managed_components/espressif__esp-dsp/modules/matrix/mat/mat.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/mulc/float/dsps_mulc_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/addc/float/dsps_addc_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/mulc/fixed/dsps_mulc_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/mulc/fixed/dsps_mulc_s16_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/add/float/dsps_add_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/add/fixed/dsps_add_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/add/fixed/dsps_add_s16_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/sub/float/dsps_sub_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/mul/float/dsps_mul_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/mul/fixed/dsps_mul_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/mulc/float/dsps_mulc_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/addc/float/dsps_addc_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/add/float/dsps_add_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/sub/float/dsps_sub_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/mul/float/dsps_mul_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/math/sqrt/float/dsps_sqrt_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft2r_fc32_ae32_.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft2r_fc32_aes3_.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft2r_fc32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft2r_fc32_ae32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_bit_rev_lookup_fc32_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft4r_fc32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft4r_fc32_ae32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft2r_bitrev_tables_fc32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/float/dsps_fft4r_bitrev_tables_fc32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/fixed/dsps_fft2r_sc16_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/fixed/dsps_fft2r_sc16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fft/fixed/dsps_fft2r_sc16_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/dct/float/dsps_dct_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/snr/float/dsps_snr_f32.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/sfdr/float/dsps_sfdr_f32.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/misc/dsps_d_gen.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/misc/dsps_h_gen.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/misc/dsps_tone_gen.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/cplx_gen/dsps_cplx_gen.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/cplx_gen/dsps_cplx_gen.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/cplx_gen/dsps_cplx_gen_init.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/mem/esp32s3/dsps_memset_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/mem/esp32s3/dsps_memcpy_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "managed_components/espressif__esp-dsp/modules/support/view/dsps_view.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/windows/hann/float/dsps_wind_hann_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/windows/blackman/float/dsps_wind_blackman_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/windows/blackman_harris/float/dsps_wind_blackman_harris_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/windows/blackman_nuttall/float/dsps_wind_blackman_nuttall_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/windows/nuttall/float/dsps_wind_nuttall_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/windows/flat_top/float/dsps_wind_flat_top_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/conv/float/dsps_conv_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/conv/float/dsps_conv_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/conv/float/dsps_corr_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/conv/float/dsps_corr_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/conv/float/dsps_ccorr_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/conv/float/dsps_ccorr_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/iir/biquad/dsps_biquad_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/iir/biquad/dsps_biquad_f32_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/iir/biquad/dsps_biquad_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/iir/biquad/dsps_biquad_gen_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fir_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fir_f32_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fird_f32_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fird_f32_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fir_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fir_init_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fird_f32_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/float/dsps_fird_init_f32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/fixed/dsps_fird_init_s16.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 1,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/fixed/dsps_fird_s16_ansi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/fixed/dsps_fird_s16_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/fixed/dsps_fir_s16_m_ae32.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 2,
+			"path" : "managed_components/espressif__esp-dsp/modules/fir/fixed/dsps_fird_s16_aes3.S",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "managed_components/espressif__esp-dsp/modules/kalman/ekf/common/ekf.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "managed_components/espressif__esp-dsp/modules/kalman/ekf_imu13states/ekf_imu13states.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
